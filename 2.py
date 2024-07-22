@@ -1,4 +1,3 @@
-a=100
-b=20022
-c=a+b
+a=int input("enter the value")
+c=a+20000
 print(c)
